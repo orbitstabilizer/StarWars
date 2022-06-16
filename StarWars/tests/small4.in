@@ -1,0 +1,95 @@
+4
+Sector-1 SEPARATISTS
+Sector-2 REPUBLIC
+Sector-3 REPUBLIC
+Sector-4 REPUBLIC
+51
+Jedi Jedi-1 33 91 154
+Jedi Jedi-2 107 55 108
+Jedi Jedi-3 668 74 45
+Officer Officer-4 PILOTING 4
+Sith Sith-5 532 79 156
+Sith Sith-6 915 36 88
+Sith Sith-7 456 63 22
+Sith Sith-8 531 57 198
+Sith Sith-9 624 38 146
+Sith Sith-10 145 34 120
+Sith Sith-11 211 46 65
+Sith Sith-12 229 21 156
+Officer Officer-13 PILOTING 4
+Officer Officer-14 ENGINEERING 7
+Sith Sith-15 81 38 165
+Sith Sith-16 442 73 96
+Sith Sith-17 374 30 121
+Sith Sith-18 274 59 178
+Sith Sith-19 478 99 110
+Sith Sith-20 679 24 104
+Sith Sith-21 902 40 49
+Sith Sith-22 622 72 103
+Sith Sith-23 807 73 194
+Officer Officer-24 TACTICAL 3
+Officer Officer-25 GUNNERY 4
+Officer Officer-26 COMMAND 6
+Officer Officer-27 COMMAND 9
+Jedi Jedi-28 359 23 93
+Jedi Jedi-29 991 12 175
+Jedi Jedi-30 49 46 73
+Sith Sith-31 573 95 16
+Sith Sith-32 304 7 78
+Sith Sith-33 419 80 197
+Officer Officer-34 COMMAND 10
+Officer Officer-35 GUNNERY 4
+Officer Officer-36 PILOTING 1
+Officer Officer-37 PILOTING 8
+Jedi Jedi-38 416 16 16
+Jedi Jedi-39 522 40 30
+Jedi Jedi-40 578 67 17
+Jedi Jedi-41 934 83 180
+Jedi Jedi-42 985 86 0
+Officer Officer-43 ENGINEERING 6
+Officer Officer-44 GUNNERY 9
+Jedi Jedi-45 99 2 13
+Officer Officer-46 COMMAND 6
+Officer Officer-47 PILOTING 10
+Jedi Jedi-48 44 96 108
+Jedi Jedi-49 229 40 92
+Jedi Jedi-50 42 77 56
+Officer Officer-51 PILOTING 10
+8
+RepublicCruiser Cruiser-1 4 2
+4 1 2 3 4
+SeparatistDestroyer Destroyer-2 2 3
+7 5 6 7 8 9 10 11
+SeparatistFrigate Destroyer-3 2 4
+3 12 13 14
+SeparatistBattleship Destroyer-4 1 5
+7 15 16 17 18 19 20 21
+SeparatistBattleship Destroyer-5 4 6
+6 22 23 24 25 26 27
+RepublicCruiser Cruiser-6 3 7
+3 28 29 30
+SeparatistBattleship Destroyer-7 1 8
+7 31 32 33 34 35 36 37
+RepublicCruiser Cruiser-8 3 9
+4 38 39 40 41
+20
+20 5 1 10
+20 7 4 11
+50 35
+50 26
+50 35
+30 6
+11 4
+51 1 Armament 6966
+41 31 3
+50 13
+50 26
+40 31 4
+50 24
+40 44 3
+11 1
+20 6 4 12
+30 8
+51 8 Shield 4662
+51 1 Armament 4676
+51 2 Shield 9808

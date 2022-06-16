@@ -1,0 +1,63 @@
+5
+Sector1 REPUBLIC
+Sector2 REPUBLIC
+Sector3 REPUBLIC
+Sector4 REPUBLIC
+Sector5 REPUBLIC
+22
+Sith sith1 10 10 10
+Sith sith2 171 10 10
+Sith sith3 10 10 100
+Sith sith4 10 10 200
+Sith sith5 500 10 10
+Jedi jedi1 0 10 10
+Jedi jedi2 0 10 10
+Jedi jedi3 0 10 10
+Jedi jedi4 0 10 10
+Jedi jedi5 0 10 10
+Officer officer1 COMMAND 1
+Officer officer2 COMMAND 1
+Officer officer3 GUNNERY 1
+Officer officer4 GUNNERY 1
+Officer officer5 PILOTING 1
+Officer officer6 PILOTING 1
+Officer officer7 ENGINEERING 1
+Officer officer8 ENGINEERING 1
+Officer officer9 TACTICAL 1
+Officer officer10 TACTICAL 1
+Sith sith6 10 10 10
+Jedi jedi6 20 10 10
+12
+SeparatistDestroyer Destroyer1 1 1
+2 1 11
+SeparatistDestroyer Destroyer2 2 1
+2 2 12
+SeparatistDestroyer Destroyer3 3 1
+2 3 13
+SeparatistDestroyer Destroyer4 4 1
+2 4 14
+SeparatistDestroyer Destroyer5 5 1
+2 5 15
+RepublicCruiser Cruiser1 1 2
+2 6 16
+RepublicCruiser Cruiser2 2 2
+2 7 17
+RepublicCruiser Cruiser3 3 2
+2 8 18
+RepublicCruiser Cruiser4 4 2
+2 9 19
+RepublicCruiser Cruiser5 5 2
+2 10 20
+SeparatistDestroyer Destroyer6 5 10
+1 21
+RepublicCruiser Cruiser6 5 15
+1 22
+8
+51 9 Armament 1000
+10 6 1
+10 7 2
+10 8 3
+10 9 4
+10 5 10
+10 12 11
+10 6 5

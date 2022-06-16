@@ -1,0 +1,36 @@
+Warship cruiser1 in (Sector-1, 4)
+jedi1 30723
+Warship cruiser5 in (Sector-1, 8)
+jedi5 4023
+Warship cruiser2 in (Sector-1, 5)
+jedi2 3723
+Warship destroyer5 in (Sector-1, 10)
+sith5 1302
+Warship cruiser3 in (Sector-1, 3)
+jedi3 1203
+Warship destroyer4 in (Sector-1, 9)
+sith4 542
+Warship destroyer1 is destroyed by cruiser1 in (Sector-1,4)
+Warship destroyer2 is destroyed by cruiser2 in (Sector-1,5)
+Warship cruiser4 is destroyed by destroyer4 in (Sector-1,9)
+Warship destroyer3 is destroyed by cruiser5 in (Sector-1,8)
+Sith sith1 is free
+10410
+Jedi jedi1 is in cruiser1
+10040
+Sith sith2 is free
+1410
+Jedi jedi5 is in cruiser5
+1140
+Jedi jedi2 is in cruiser2
+1040
+Sith sith3 is killed by jedi5
+510
+Sith sith5 is in destroyer5
+510
+Jedi jedi3 is in cruiser3
+200
+Sith sith4 is in destroyer4
+130
+Jedi jedi4 is killed by sith4
+-50

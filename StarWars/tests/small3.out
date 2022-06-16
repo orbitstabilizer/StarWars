@@ -1,0 +1,61 @@
+Warship Destroyer5 in (Sector5, 2)
+sith5 1390
+Warship Cruiser6 in (Sector5, 10)
+jedi6 813
+Warship Destroyer4 in (Sector4, 1)
+sith4 786
+Warship Destroyer2 in (Sector2, 1)
+sith2 728
+Warship Destroyer3 in (Sector3, 1)
+sith3 586
+Warship Destroyer1 is destroyed by Cruiser1 in (Sector1,1)
+Warship Cruiser1 is destroyed by Destroyer5 in (Sector5,2)
+Warship Cruiser2 is destroyed by Destroyer2 in (Sector2,1)
+Warship Cruiser3 is destroyed by Destroyer3 in (Sector3,1)
+Warship Cruiser4 is destroyed by Destroyer4 in (Sector4,1)
+Warship Cruiser5 is destroyed by Destroyer5 in (Sector5,2)
+Warship Destroyer6 is destroyed by Cruiser6 in (Sector5,10)
+Sith sith5 is in Destroyer5
+553
+Sith sith4 is in Destroyer4
+251
+Sith sith2 is in Destroyer2
+222
+Sith sith3 is in Destroyer3
+151
+Jedi jedi6 is in Cruiser6
+70
+Sith sith1 is free
+60
+Sith sith6 is killed by jedi6
+60
+Jedi jedi1 is killed by sith5
+40
+Jedi jedi2 is killed by sith2
+40
+Jedi jedi5 is killed by sith5
+40
+Jedi jedi3 is killed by sith3
+-50
+Jedi jedi4 is killed by sith4
+-59
+Officer officer1 is killed by sith5
+COMMAND 1
+Officer officer2 is in Destroyer2
+COMMAND 1
+Officer officer3 is in Destroyer3
+GUNNERY 1
+Officer officer4 is in Destroyer4
+GUNNERY 1
+Officer officer5 is in Destroyer5
+PILOTING 1
+Officer officer6 is killed by sith5
+PILOTING 1
+Officer officer7 is killed by sith2
+ENGINEERING 1
+Officer officer8 is killed by sith3
+ENGINEERING 1
+Officer officer9 is killed by jedi4
+TACTICAL 1
+Officer officer10 is killed by sith5
+TACTICAL 1

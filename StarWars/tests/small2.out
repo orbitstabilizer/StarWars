@@ -1,0 +1,84 @@
+Warship Battleship1 in (Sector1, 1)
+freeSith1 324022
+Warship Cruiser1 in (Sector1, 2)
+jedi1 88596
+Sith freeSith1 is in Battleship1
+60
+Sith freeSith2 is in Battleship1
+60
+Sith freeSith3 is in Battleship1
+60
+Sith freeSith4 is in Battleship1
+60
+Sith freeSith5 is in Battleship1
+60
+Sith freeSith6 is free
+60
+Sith freeSith7 is free
+60
+Sith freeSith8 is free
+60
+Sith sith1 is in Battleship1
+60
+Jedi jedi1 is in Cruiser1
+50
+Officer officer10 is in Battleship1
+TACTICAL 10
+Officer officer11 is in Battleship1
+COMMAND 10
+Officer officer12 is in Cruiser1
+COMMAND 10
+Officer officer13 is in Battleship1
+GUNNERY 10
+Officer officer14 is in Cruiser1
+GUNNERY 10
+Officer officer15 is in Battleship1
+PILOTING 10
+Officer officer16 is in Cruiser1
+PILOTING 10
+Officer officer17 is in Battleship1
+ENGINEERING 10
+Officer officer18 is in Cruiser1
+ENGINEERING 10
+Officer officer9 is in Battleship1
+TACTICAL 9
+Officer officer8 is in Battleship1
+ENGINEERING 8
+Officer officer7 is in Battleship1
+ENGINEERING 7
+Officer officer6 is in Battleship1
+PILOTING 6
+Officer officer5 is in Battleship1
+PILOTING 5
+Officer officer4 is in Battleship1
+GUNNERY 4
+Officer officer3 is in Battleship1
+GUNNERY 3
+Officer officer2 is in Battleship1
+COMMAND 2
+Officer officer1 is free
+COMMAND 1
+Officer officer19 is in Cruiser1
+TACTICAL 1
+Officer officer20 is in Cruiser1
+TACTICAL 1
+Officer officer21 is in Cruiser1
+COMMAND 1
+Officer officer22 is in Cruiser1
+COMMAND 1
+Officer officer23 is in Cruiser1
+GUNNERY 1
+Officer officer24 is free
+GUNNERY 1
+Officer officer25 is free
+PILOTING 1
+Officer officer26 is free
+PILOTING 1
+Officer officer27 is free
+ENGINEERING 1
+Officer officer28 is free
+ENGINEERING 1
+Officer officer29 is free
+TACTICAL 1
+Officer officer30 is free
+TACTICAL 1
